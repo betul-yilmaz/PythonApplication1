@@ -1,3 +1,1 @@
-# PythonApplication1
-# PythonApplication1
-# PythonApplication1
+# selenium python project
