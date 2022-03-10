@@ -94,11 +94,9 @@ def transmissionSec(trans):
         "unknown": "//*[@id='panel_transmissions']/div[5]/label"}
     browser.find_element_by_id("trigger_transmissions").click()     
     time.sleep(3) 
-    # gelen parametreye karşılık gelen renkleri seçtiriyoruz.
     for i in range(0,len(trans)):
         (browser.find_element_by_xpath(Transmissions[trans[i].lower()])).click()
         time.sleep(3)    
-    # exterior color menüsünü kapatıyoruz.
     browser.find_element_by_id("trigger_transmissions").click()
     return
 
@@ -117,20 +115,20 @@ def driveTrainSec(drivetrains):
     return
 
 # drop down listten 50 seçeneği seçtilerek 50 araç listelenmesi sağlandı
-def set50ResultsPerPage():
+def listele():
     Select(browser.find_element_by_xpath("//*[@id='pagination-dropdown']")).select_by_visible_text(
         "50 results per page")
     return
 
 browser=webdriver.Chrome("C:\\Users\\MONSTER\\chromedriver_win32\\chromedriver.exe") 
 browser.get("https://www.cars.com/for-sale/searchresults.action")
-set50ResultsPerPage()
+listele()
 
 
 
 #route /list olarak belirlendi
 @app.route("/list")
-def get_cars():
+def jsonDonustur():
     #gelen request parametresi eğer boş değil ise ilgili metot çağrılıyor
     colorList = list(request.args.getlist("extcolor"))
     if colorList is not None:
