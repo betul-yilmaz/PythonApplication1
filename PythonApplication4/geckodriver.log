@@ -1,0 +1,254 @@
+1646693118229	geckodriver	INFO	Listening on 127.0.0.1:61781
+1646693121265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61782" "-no-remote" "-profile" "C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofileIVan3r"
+1646693121800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofileIVan3r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61782/devtools/browser/301995b7-e6c8-4b54-9552-4036a3fe9bb8
+1646693125219	Marionette	INFO	Listening on port 61821
+1646693125499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 1284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 5806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646693196247	geckodriver	INFO	Listening on 127.0.0.1:59905
+1646693199201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59906" "-no-remote" "-profile" "C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofileIM7RiK"
+1646693200207	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofileIM7RiK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59906/devtools/browser/95973131-a7e8-4db5-a470-15e8b3f71c29
+1646693202779	Marionette	INFO	Listening on port 59944
+1646693202956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 3373 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 5431 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+1646693268106	geckodriver	INFO	Listening on 127.0.0.1:60341
+1646693271173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60342" "-no-remote" "-profile" "C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofilehGWjD9"
+1646693271592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofilehGWjD9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60342/devtools/browser/ffef8da5-50b7-4419-aced-661d37a83a44
+1646693274009	Marionette	INFO	Listening on port 60374
+1646693274368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 7560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646693320110	geckodriver	INFO	Listening on 127.0.0.1:51268
+1646693323164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51269" "-no-remote" "-profile" "C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofile0zhJkp"
+1646693323609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofile0zhJkp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51269/devtools/browser/eda2d362-5036-4600-af21-3a7ed740a6d4
+1646693326198	Marionette	INFO	Listening on port 51296
+1646693326389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 693 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 1856 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646693396919	geckodriver	INFO	Listening on 127.0.0.1:51748
+1646693399973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51749" "-no-remote" "-profile" "C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofileK4HtJr"
+1646693400411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MONSTER\\AppData\\Local\\Temp\\rust_mozprofileK4HtJr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51749/devtools/browser/92ae25fd-d0ef-4204-ad49-f3f49a8e5615
+1646693403068	Marionette	INFO	Listening on port 51775
+1646693403187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cars.com/Suj2MnlqGH6sp/X/lQGFt_PbonH4U/7Jf3mNrm/JSlObhhbAQ/ZWR0HQ/RiY2I, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 5881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 7711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 4935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 5411 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wpnNdEHEE-H-HWkGYo82vcEULjX7WQfOj--jYhPbLdo.js line 1 > eval line 3428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646693483814	Marionette	INFO	Stopped listening on port 51775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
